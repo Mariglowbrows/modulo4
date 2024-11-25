@@ -1,0 +1,18 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.cont-alpinismo {
+    background-color: rgb(129, 218, 240);
+}
+.cont-alpinismo h3 {
+    color: red;
+}
+.cont-ia {
+    background-color: rgb(71, 250, 0);
+}
+.cont-ia h3 {
+    color: rgb(255, 17, 235);
+}
